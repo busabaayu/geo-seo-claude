@@ -1,0 +1,10 @@
+{
+  "name": "geo-seo",
+  "description": "GEO-first SEO: audits for AI search (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews) + traditional SEO — citability, AI crawlers, llms.txt, schema, technical, E-E-A-T, brand mentions, reports. /geo audit <url>.",
+  "version": "1.0.0-busaba",
+  "author": { "name": "Zubair Trabzada" },
+  "repository": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "license": "MIT",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

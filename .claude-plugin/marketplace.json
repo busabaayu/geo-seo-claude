@@ -1,0 +1,7 @@
+{
+  "name": "busaba-geo-seo",
+  "owner": { "name": "busabaayu" },
+  "plugins": [
+    { "name": "geo-seo", "source": "./", "description": "GEO-first SEO audits for AI search + traditional SEO (fork of zubair-trabzada/geo-seo-claude, packaged as a plugin)" }
+  ]
+}
